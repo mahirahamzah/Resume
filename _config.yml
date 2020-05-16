@@ -48,16 +48,6 @@ about_content: | # this will include new lines to allow paragraphs
     You can call me *Aira*.
     
     Currently pursuing Master in Data Science & Analytics at University Sains Malaysia and working full-time at Western Digital as Senior Manufacturing Engineer.
-    
-    Was an Automation Engineer with 5 years of experience in both wafer fab and assembly/test semiconductors industry.
-    Began my career in Infineon Technology that made me fall in love with machine automation, 
-    I later enhanced my knowledge in semiconductors industry at OSRAM Opto Semiconductors. 
-    These two companies provide me skills and knowledge broadly in Factory Integration, SECS GEM and MES.
-   
-   Some of my skills are
-   Programming : Python, R, SQL, JavaScript, C#,
-   Tools : RStudio, RapidMiner, Tableau, Weka, Hadoop, AWS
-   Database : Oracle
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
