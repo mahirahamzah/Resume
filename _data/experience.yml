@@ -1,7 +1,7 @@
 # Experience template
 - layout: left
   company: Western Digital (Media)
-  link: https://www.westerndigital.com/
+  link: westerndigital.com
   job_title: Senior Manufacturing Engineer
   dates: DFab 2020 - Present
   quote: >
@@ -12,7 +12,7 @@
 # Experience template
 - layout: left
   company: OSRAM Opto Semiconductor
-  link: https://www.osram.com/os/
+  link: osram.com
   job_title: Computer Integrated Manufacturing Engineer
   dates: April 2018 - January 2020
   quote: >
@@ -23,10 +23,12 @@
 # Experience template
 - layout: left
   company: Infineon Technologies
-  link: https://www.infineon.com/
+  link: infineon.com
   job_title: Equipment Automation Engineer
   dates: February 2015 - March 2019
   quote: >
    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    I started my career with zero knowledge about semiconductor but 3 years in Infineon accorded me with broad knowledge especially regarding automation fab technologies.
+    I successfully integrated more than 40 machines into the system and became subject matter experts for Implanter and Preassembly process integration. I was also the team lead for final system verification during major shutdown.
+    Whilst at Infineon I had th opportunity to work with : <mark>SECS/GEM</mark>, <mark>MES</mark>,<mark>OpenSIM Pro</mark>
