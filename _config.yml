@@ -45,7 +45,7 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: "images/profile.jpg"
 about_content: | # this will include new lines to allow paragraphs
-    You can call me  ### Aira ### .
+    You can call me  <b> Aira</b> .
     
     Currently pursuing Master in Data Science & Analytics at University Sains Malaysia and working full-time at Western Digital as Senior Manufacturing Engineer.
 
