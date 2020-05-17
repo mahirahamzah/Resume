@@ -7,3 +7,14 @@
     
   description: | # this will include new lines to allow paragraphs
     Current CGPA : 3.22
+
+# Education Template
+- layout: left
+  name: University Teknologi Malaysia
+  dates: 2010 - 2014
+  qualification: Bachelor in Computer Science (Database System)
+  quote: >
+    
+  description: | # this will include new lines to allow paragraphs
+    Current CGPA : 3.64
+    Dean's Award
