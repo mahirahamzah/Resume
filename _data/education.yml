@@ -8,7 +8,7 @@
   quote: >
     Founded on 1 June 1969 as a statutory body with its own constitution, among the oldest institutes of higher learning in Northern Malaysia. USM is the only Accelerated Programs for Excellence (APEX) government-funded autonomous university in Malaysia.
   description: | # this will include new lines to allow paragraphs
-    [Full Course](https://cs.usm.my/index.php/admissions-academics/postgraduate/msc-data-sc-analytic-course-work/course-synopsis-sa) {:target="_blank"}
+    [Full Course](https://cs.usm.my/index.php/admissions-academics/postgraduate/msc-data-sc-analytic-course-work/course-synopsis-sa){:target="_blank"}
 
 # Education Template
 - layout: left
