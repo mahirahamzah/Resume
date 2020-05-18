@@ -4,11 +4,10 @@
   dates: 2018 - 2021
   qualification: Master in Data Science & Analytics
   quote: >
-  
-    [Link] (https://cs.usm.my/index.php/admissions-academics/postgraduate/msc-data-sc-analytic-course-work/course-synopsis-sa)
     Founded on 1 June 1969 as a statutory body with its own constitution, among the oldest institutes of higher learning in Northern Malaysia. USM is the only Accelerated Programs for Excellence (APEX) government-funded autonomous university in Malaysia.
   description: | # this will include new lines to allow paragraphs
     Current CGPA : 3.22
+    [Link](https://cs.usm.my/index.php/admissions-academics/postgraduate/msc-data-sc-analytic-course-work/course-synopsis-sa)
 
 # Education Template
 - layout: left
