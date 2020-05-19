@@ -10,11 +10,18 @@
   
   
 - layout: top-middle
-  name: ITIL® Foundation Certificate in IT Service Management
+  name: Oracle Database 11g Database Associate
   link: #Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: #Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-    EXIN 2017
-    Credential ID : 5978101.20652803
+    PearsonVUE 2013
+  description: | # this will include new lines to allow paragraphs
+  
+- layout: top-middle
+  name: IC3 Digital Literacy Certification
+  link: #Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  github: #Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    Certiport 2012
   description: | # this will include new lines to allow paragraphs
     
