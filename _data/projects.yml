@@ -1,5 +1,5 @@
 # Project template
-- layout: top-left
+- layout: top-middle
   name: ITIL® Foundation Certificate in IT Service Management
   #link: #Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   #github: #Github page for project (eg. sproogen/modern-resume-theme)(optional)
@@ -9,7 +9,7 @@
     EXIN 2017
     Credential ID : 5978101.20652803
     
-- layout: top-left
+- layout: top-middle
   name: Oracle Database 11g Administrator Associate
   #link: #Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   #github: #Github page for project (eg. sproogen/modern-resume-theme)(optional)
@@ -18,7 +18,7 @@
   description: | # this will include new lines to allow paragraphs
     PearsonVUE 2013
 
-- layout: top-left
+- layout: top-middle
   name: IC3 Digital Literacy Certification
   #link: #Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   #github: #Github page for project (eg. sproogen/modern-resume-theme)(optional)
