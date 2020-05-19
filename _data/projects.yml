@@ -9,7 +9,7 @@
     EXIN 2017
     Credential ID : 5978101.20652803
     
-- layout: left
+- layout: top-left
   name: Oracle Database 11g Administrator Associate
   link: #Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: #Github page for project (eg. sproogen/modern-resume-theme)(optional)
@@ -18,7 +18,7 @@
   description: | # this will include new lines to allow paragraphs
     PearsonVUE 2013
 
-- layout: left
+- layout: top-left
   name: IC3 Digital Literacy Certification
   link: #Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: #Github page for project (eg. sproogen/modern-resume-theme)(optional)
