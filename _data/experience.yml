@@ -5,9 +5,9 @@
   job_title: Senior Manufacturing Engineer
   dates: Feb 2020 - Present
   quote: >
-   Short description of the company (optional)
+   
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    Building an application system to replace manual calculation by engineers
     
 # Experience template
 - layout: right
@@ -16,9 +16,10 @@
   job_title: Computer Integrated Manufacturing Engineer
   dates: April 2018 - January 2020
   quote: >
-   Short description of the company (optional)
+   
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    Drive Global Tool of Specification (GTOS) process and Automation Capability Management (ACM) Buyoff for One-of-a-Kind (OOAK) machines equipped with SECS/GEM capabilities. 
+    Create test plans for SECS/GEM buyoff, perform black-box testing on the application features or enhancements.
     
 # Experience template
 - layout: left
@@ -27,7 +28,7 @@
   job_title: Equipment Automation Engineer
   dates: February 2015 - March 2019
   quote: >
-   Short description of the company (optional)
+   
   description: | # this will include new lines to allow paragraphs
     I started my career with zero knowledge about semiconductor but 3 years in Infineon accorded me with broad knowledge especially regarding automation fab technologies.
     I successfully integrated more than 40 machines into the system and became subject matter experts for Implanter and Preassembly process integration. I was also the team lead for final system verification during major shutdown.
