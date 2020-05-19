@@ -1,9 +1,9 @@
 # Project template
 - layout: top-left
   name: ITIL® Foundation Certificate in IT Service Management
-  link: #Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: #Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
+  #link: #Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #github: #Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  #quote: >
     Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
     EXIN 2017
@@ -11,18 +11,18 @@
     
 - layout: top-left
   name: Oracle Database 11g Administrator Associate
-  link: #Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: #Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
+  #link: #Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #github: #Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  #quote: >
     Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
     PearsonVUE 2013
 
 - layout: top-left
   name: IC3 Digital Literacy Certification
-  link: #Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: #Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
+  #link: #Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #github: #Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  #quote: >
     Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
     Certiport 2012
