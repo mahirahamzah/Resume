@@ -7,7 +7,7 @@
   quote: >
    
   description: | # this will include new lines to allow paragraphs
-    Building an application system to replace manual calculation by engineers
+    Despite the title, my task is actually more like fullstack software developer. I'm building an application system to replace manual calculation by engineers. The web application is build using <mark>MVC</mark> architecture with some <mark>R</mark> for analytics.
     
 # Experience template
 - layout: right
