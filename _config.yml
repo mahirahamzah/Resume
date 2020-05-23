@@ -48,6 +48,9 @@ about_content: | # this will include new lines to allow paragraphs
     You can call me  <b> Aira</b> .
     
     Currently pursuing Master in Data Science & Analytics at University Sains Malaysia and working full-time at Western Digital as Senior Manufacturing Engineer.
+    <br>
+    I mostly code in C# and R at work but I do my projects for data analytics in <mark>Python</mark>.
+    
 
 # Projects Section
 projects_title: Skills & Certs
