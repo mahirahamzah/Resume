@@ -8,15 +8,20 @@
   quote: >
     Founded on 1 June 1969 as a statutory body with its own constitution, among the oldest institutes of higher learning in Northern Malaysia. USM is the only Accelerated Programs for Excellence (APEX) government-funded autonomous university in Malaysia.
   description: | # this will include new lines to allow paragraphs
+    This course has been preparing me
     [Full Course](https://cs.usm.my/index.php/admissions-academics/postgraduate/msc-data-sc-analytic-course-work/course-synopsis-sa){:target="_blank"}
 
 # Education Template
 - layout: left
   name: University Teknologi Malaysia
   dates: 2010 - 2014
-  qualification: Bachelor in Computer Science (Database System)
+  qualification: >
+    Bachelor in Computer Science (Database System)
+    Current CGPA : 3.64 <br>
+    Dean's Award
   quote: >
     Universiti Teknologi Malaysia (UTM) is a Malaysian public research-intensive university in engineering, science and technology. Top 10 University in South East Asia according to Quacquarelli Symonds (QS) World University Rankings
   description: | # this will include new lines to allow paragraphs
-    Current CGPA : 3.64 <br>
-    Dean's Award
+    This course is currently has been rebrand to Data Engineering with some updated syllabus to cater with current technoly need but with still overall same fundamental. I'm exposed to  specialization in the database field with the combination of computer science, database technology and information technology for the use of organization
+    I received my Oracle certification during this period of getting my degree
+   
