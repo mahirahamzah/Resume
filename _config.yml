@@ -49,7 +49,7 @@ about_content: | # this will include new lines to allow paragraphs
     
     Currently pursuing Master in Data Science & Analytics at University Sains Malaysia and working full-time at Western Digital as Senior Manufacturing Engineer.
     <br>
-    I mostly code in C# and R at work but I do my projects for data analytics in <mark>Python</mark>. Since March 2020, the topic of COVID-19 has been dominant topic in Kaggle and I recently decided to join the bandwagon.
+    I mostly code in C# and R at work but I do my projects for data analytics in <mark>Python</mark>.<br><br> Since March 2020, the topic of COVID-19 has been dominant topic in Kaggle and I recently decided to join the bandwagon.
     My project for COVID-19 Malaysia can be found here [Github](https://github.com/mahirahamzah/COVID19_malaysia), [Kaggle Dataset](https://www.kaggle.com/mahirahmzh/covid19-malaysia-by-region) and [Kaggle Notebook](https://www.kaggle.com/mahirahmzh/covid-19-malaysia-confirmed-case-eda)
     
 
