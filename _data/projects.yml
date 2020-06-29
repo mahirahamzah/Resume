@@ -6,7 +6,7 @@
   github: #Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
     PearsonVUE 2020
-  description: | <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="aef52f68-0227-4d89-a990-f45840dc7456" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+  description: |
   
 - layout: top-middle
   name: ITIL® Foundation Certificate in IT Service Management
