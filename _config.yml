@@ -71,9 +71,6 @@ more_title: A Little More About Me #(Use this to override about more section tit
 more_content: | # this will include new lines to allow paragraphs
   When I'm not programming, I like to read book while having cuppa coffee. I've been living in Penang, Malaysia since 2018 and falling in love with cafe scene here. My personal fav is [Ome by Spacebar Coffee](https://www.instagram.com/ome.space){:target="_blank"}.
   I also enjoy outdoors activities especially hiking. You can take a peek of all these in my instagram : [@aira.hmzh](https://www.instagram.com/aira.hmzh/){:target="_blank"}
-  
-  I used to be active host for couchsurfing in Penang [@Airahamzah](https://www.couchsurfing.com/people/aira-hamzah){:target="_blank"}, however since [CS started to charge for membership](https://medium.com/@jameshopest/the-death-of-couchsurfing-a87d9537edf2){:target="_blank"} I'm considering moving to other platforms but yet to register.
-  The reason why I like hosting because It allowed me to meet people from all over the world, who will sometimes cook for me, clean for me, and most of time have amazing stories to tell. It’s like traveling while staying home! It makes me more culturally aware, give me new connections and friends.
 
 # Footer
 footer_show_references: false
