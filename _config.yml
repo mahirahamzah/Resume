@@ -70,7 +70,7 @@ projects_title: Certifications
 more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
   When I'm not programming, I like to read book while having cuppa coffee. I've been living in Penang, Malaysia since 2018 and falling in love with cafe scene here. My personal fav is [Ome by Spacebar Coffee](https://www.instagram.com/ome.space){:target="_blank"}.
-  I also enjoy outdoors activities especially hiking. You can take a peek of all these in my instagram : [@aira.hmzh](https://www.instagram.com/aira.hmzh/){:target="_blank"}
+  I also enjoy outdoors activities especially hiking.
 
 # Footer
 footer_show_references: false
